@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94591e13-b70a-45ce-a307-d9e7f3ed3d2a" name="Default" comment="" />
+    <list default="true" id="94591e13-b70a-45ce-a307-d9e7f3ed3d2a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/procfile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txtx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +159,7 @@
       <workItem from="1588805748730" duration="1351000" />
       <workItem from="1588807550510" duration="8169000" />
       <workItem from="1588816224447" duration="569000" />
-      <workItem from="1588842346217" duration="421000" />
+      <workItem from="1588842346217" duration="915000" />
     </task>
     <servers />
   </component>

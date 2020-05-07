@@ -6,7 +6,7 @@
 #     print(tweet)
 # else:
 #     print("Kagak ada")
-#sss
+#
 # print(tweet)
 
 # sss = "https://ton.twitter.com/1.1/ton/data/dm/1219983622142218244/1219983611962638336/hMqlXHC_.jpg"
